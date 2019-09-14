@@ -1,6 +1,10 @@
 # Section-Collapse
 A simple swift project showing how one can collapse and expand the sections of a UITableView using custom view for section header( with UI customisation such as gradient), added programatically.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Xy0sJtRQd66wD2jbZf/giphy.gif" />
+</p>
+
 ## Motivation
 
 iOS framework provides great customisations with UITableView. This is a really simple example of how we can make a section collapse and expand using UITableView.
